@@ -1,4 +1,7 @@
 # Questions
+* If you got $50 000 to start your own company, what app would you write?
+* How many people would you need, how long time would it take you to create the MVP?
+* Would you use an incubator, accelerator or non at all? 
 * Your timeline 
 * What are you looking to get out of your next job?
 * what can you contribute to IBM?
@@ -19,9 +22,6 @@
 [A, C, E, A, E, Z, X, A , F, F, C, Y]
 
 # Tech Interview Questions
-* If you got $50 000 to start your own company, what app would you write?
-* How many people would you need, how long time would it take you to create the MVP?
-* Would you use an incubator, accelerator or non at all? 
 * How would you go about designing a crawler?
 * What makes a good API, example.
 * What is your favorite stack, example. What have you written with it?
