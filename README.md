@@ -7,6 +7,8 @@
 * What is your favorite tech web site for news?
 * Are you technically active on Twitter, on any social networks, do you blog?
 * Are you involved in any online/local tech communities?
+* What database do you prefer and why? SQL/NoSQL?
+* Do you attend Hackathons, Meetups?
 
 # Coding
 * Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
