@@ -2,6 +2,7 @@
 * If you got $50 000 to start your own company, what app would you write?
 * How many people would you need, how long time would it take you to create the MVP?
 * Would you use an incubator, accelerator or non at all? 
+* WHat technology are you the most excited about and why?
 * Your timeline 
 * What are you looking to get out of your next job?
 * what can you contribute to IBM?
